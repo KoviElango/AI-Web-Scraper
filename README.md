@@ -32,3 +32,9 @@ Welcome to the AI Web Scraper, a simple web-based application built using **Stre
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/ai-web-scraper.git
+
+
+   Future Enhancements
+Add support for more complex content parsing, such as images, tables, and metadata.
+Expand AI models for more sophisticated and accurate content extraction.
+Add browser-independent scraping capabilities.
